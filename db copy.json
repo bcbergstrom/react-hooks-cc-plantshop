@@ -1,6 +1,12 @@
 {
   "plants": [
     {
+      "id": 1,
+      "name": "Aloe",
+      "image": "./images/aloe.jpg",
+      "price": "1 shmeckel"
+    },
+    {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
